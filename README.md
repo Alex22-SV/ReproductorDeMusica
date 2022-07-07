@@ -1,5 +1,5 @@
 # Reproductor de música
-Este proyecto es principalmente para prácticar mis habilidades con HTML, JS y CSS con front-end, pero también puede ser de utilidad para personas que quieran crear una lista de tareas.
+Este proyecto es principalmente para prácticar mis habilidades con HTML, JS y CSS con front-end, pero también puede ser de utilidad para personas que quieran reproducir música.
 
 ## Funciones actuales
 - Reproducir música.
